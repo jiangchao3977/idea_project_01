@@ -9,4 +9,8 @@ public class Test01 {
         System.out.println("练");
         System.out.println("习");
     }
+
+    public void test(){
+        System.out.println("迷茫了");
+    }
 }
