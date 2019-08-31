@@ -13,6 +13,10 @@ public class Test01 {
     public void test(){
         System.out.println("迷茫了");
         System.out.println(" 生活究竟图什么？ ");
+
         System.out.println(" 图什么2???");
+
+        System.out.println(" 图什么1111111111111???? ");
+
     }
 }
